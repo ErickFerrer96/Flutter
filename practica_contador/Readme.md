@@ -24,4 +24,11 @@ Toda la lógica, así como la interfaz esta en la carpeta de "lib".
 [Documentación](https://flutter.dev/docs)
 
 ## Galeria
-
+* App instalada en el simulador.
+<img width="206" alt="Captura de Pantalla 2019-10-18 a la(s) 10 46 39" src="https://user-images.githubusercontent.com/47545651/67108874-005c9780-f195-11e9-8942-5211163af1e4.png">
+* App con contador en 0.
+<img width="202" alt="Captura de Pantalla 2019-10-18 a la(s) 10 46 53" src="https://user-images.githubusercontent.com/47545651/67108960-284bfb00-f195-11e9-9ded-a9c41be7958a.png">
+* App con contador en 10.
+<img width="204" alt="Captura de Pantalla 2019-10-18 a la(s) 10 46 47" src="https://user-images.githubusercontent.com/47545651/67108994-38fc7100-f195-11e9-815b-e345d2b7db0b.png">
+* App con contador en -10.
+<img width="203" alt="Captura de Pantalla 2019-10-18 a la(s) 10 47 00" src="https://user-images.githubusercontent.com/47545651/67109038-487bba00-f195-11e9-9a7b-3865520cea3c.png">
