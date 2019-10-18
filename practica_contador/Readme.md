@@ -1,4 +1,4 @@
-# Primer practica del framework flutter para el lenguaje dart.
+# Primer practica del framework flutter con el lenguaje dart.
 
 Aplicacion móvil probada en simulador para IOS, suma, resta y resetea el valor.
 
