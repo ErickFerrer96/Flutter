@@ -22,3 +22,6 @@ Toda la lógica, así como la interfaz esta en la carpeta de "lib".
 ## Documentacion de Flutter usada en este proyecto
 
 [Documentación](https://flutter.dev/docs)
+
+## Galeria
+
